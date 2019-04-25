@@ -1,0 +1,18 @@
+o que sao variaves?
+r= poce mudar de valor
+
+tipos de variaveis?
+
+int:inteiros como exemplo -8 ou 8 
+float: fraçoes ou decimais exemplo -7.3 ou5.9
+string: exemplo "vinicius"
+boolean: true\false ou 1\0
+
+regras
+nao podemos iniciar com numeros: let labc - errado 
+nao podemos  utilizar caracteres especiais =let *abc
+nao podemos utilizar palavras reservadar = let let
+
+o js é case-sentive diferentes
+curso >min
+curso >mai
